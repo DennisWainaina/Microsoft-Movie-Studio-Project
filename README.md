@@ -62,3 +62,8 @@ For the data at hand we shall now begin the process of data cleaning for each ta
 ## EXPLORATORY DATA ANALYSIS
 
 This is a crucial part of the **CRISP DM (Cross Industry Process for Data Mining)**, the process in which Data Scientists use to find insights from data and possibly even model it if required. **Exploratory Data Analysis** is about going through data which has already been pre-processed through Data Cleaning so as to answer questions about the data. Usually during **EDA** there is a goal in mind and questions that need to be answered. These are questions that stem from the business understanding which includes the **problem statement** and the **business success** criteria. Overall **Exploratory Data Analysis** is an important process in the Data Science cycle used by Data Scientists everywhere in the world.
+
+In order to do this we shall begin with the first question:
+- What is the relationship between the type of films and the domestic and or foreign gross it receives.
+![Alt Text](C:/Users/USER/Desktop/Moringa/project/Domestic_gross_per_genre.png)
+
