@@ -106,13 +106,13 @@ From **Exploratory Data Analysis**, the findings were as follows:
 From the analysis and conclusion I propose three recommendations with visualisations:
 
 - The production method Microsoft should be primarily using is Animations as they seem to have high returns domestically and internationally as shown.
-![Average_international_earning_per_production_method.png](attachment:Average_international_earning_per_production_method.png) 
+![Average_international_earning_per_production_method](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/a3abf013-71aa-49c2-8bab-e63c82400e02)
 
 - The animations Microsoft movie studio should be primarily adventure type as they seem to have the second highest returns after
   musicals as shown below.
-  ![Worldwide_gross_per_genre.png](attachment:Worldwide_gross_per_genre.png)
+  ![Worldwide_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/a72abce6-fa25-425f-9459-cdf7b19d98bd)
   
 - Microsoft should consider making musicals as they seem to be highly profitable as shown below:
-![Worldwide_gross_per_genre.png](attachment:Worldwide_gross_per_genre.png)
+![Worldwide_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/13d4e6c5-b697-4df7-9a5a-eb76f4b2e02a)
 
 
