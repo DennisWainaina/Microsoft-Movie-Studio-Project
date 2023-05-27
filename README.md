@@ -64,7 +64,7 @@ For the data at hand we shall now begin the process of data cleaning for each ta
 This is a crucial part of the **CRISP DM (Cross Industry Process for Data Mining)**, the process in which Data Scientists use to find insights from data and possibly even model it if required. **Exploratory Data Analysis** is about going through data which has already been pre-processed through Data Cleaning so as to answer questions about the data. Usually during **EDA** there is a goal in mind and questions that need to be answered. These are questions that stem from the business understanding which includes the **problem statement** and the **business success** criteria. Overall **Exploratory Data Analysis** is an important process in the Data Science cycle used by Data Scientists everywhere in the world.
 
 In order to do this we shall begin with the first question:
-- What is the relationship between the type of films and the domestic and or foreign gross it receives.
+- What is the relationship between the type of films and the average domestic and or foreign gross it receives.
 
 ![Domestic_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/1139c69c-2294-48a3-9caa-ca3e31ebdd2e)
 **The graph above answers the question on what type of films does well on a domestic level. It shows the top 10 type of films that do best at the box office on a domestic level.**
