@@ -65,7 +65,8 @@ This is a crucial part of the **CRISP DM (Cross Industry Process for Data Mining
 
 In order to do this we shall begin with the first question:
 - What is the relationship between the type of films and the domestic and or foreign gross it receives.
+
 ![Domestic_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/1139c69c-2294-48a3-9caa-ca3e31ebdd2e)
 **The graph above answers the question on what type of films does well on a domestic level. It shows the top 10 type of films that do best at the box office on a domestic level.**
-![Worldwide_gross_per_genre]
+![Worldwide_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/e94fb260-e55e-4bbb-9e0b-fc4a7865b61c)
 **The graph above answers the question on what type of films does well on an international level. It shows the top 10 type of films that do best at the box office on a domestic level.**
