@@ -1,3 +1,4 @@
+![png-transparent-black-and-white-clapper-board-clapperboard-film-director-movie-film-angle-text-logo](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/9f61f5eb-710a-438e-ab78-e2dc0c12a807)
 # PHASE 1 FINAL PROJECT
 
 ### INTRODUCTION
