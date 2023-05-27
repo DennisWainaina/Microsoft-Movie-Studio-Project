@@ -94,3 +94,25 @@ The next question we asked was:
 
 ![Average_domestic_earning_per_domestic_method](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/f9b6d77e-9597-4ed7-97c6-e1efcc2bf917)
 **Bar graph above shows the average earnings on a domestic level for each type of production method.**
+
+## CONCLUSION
+
+From **Exploratory Data Analysis**, the findings were as follows:
+- The 3 type of films that do best at the box office were: Musicals, **Adventure films** and **action films**.
+- The production methods which seemed to yield the highest return at the box office were: **Animation/Live Action**, **Digital Animation** and **Hand Animation**
+- Musical and adventure films seems to rank high within the average ratings for each type of film.
+
+## RECOMMENDATION
+From the analysis and conclusion I propose three recommendations with visualisations:
+
+- The production method Microsoft should be primarily using is Animations as they seem to have high returns domestically and internationally as shown.
+![Average_international_earning_per_production_method.png](attachment:Average_international_earning_per_production_method.png) 
+
+- The animations Microsoft movie studio should be primarily adventure type as they seem to have the second highest returns after
+  musicals as shown below.
+  ![Worldwide_gross_per_genre.png](attachment:Worldwide_gross_per_genre.png)
+  
+- Microsoft should consider making musicals as they seem to be highly profitable as shown below:
+![Worldwide_gross_per_genre.png](attachment:Worldwide_gross_per_genre.png)
+
+
