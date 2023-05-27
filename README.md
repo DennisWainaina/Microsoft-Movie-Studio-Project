@@ -1,7 +1,8 @@
-![png-transparent-black-and-white-clapper-board-clapperboard-film-director-movie-film-angle-text-logo](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/9f61f5eb-710a-438e-ab78-e2dc0c12a807)
+![film_stage_and_television_director](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/fe94daa9-8c76-4caf-9219-44b9a51f2d57)
 # PHASE 1 FINAL PROJECT
 
 ### INTRODUCTION
+
 Microsoft has seen other companies have success in the movie industry and has decided to open its movie studio. It however knows nothing about the movie industry. It has decided to hire you as a Data Scientist to determine the type of films which are most popular at the Box Office. You are then supposed to convert your findings into actionable insights which you are supposed to give to the head of the new movie studio of Microsoft.
 
 ### OBJECTIVES
