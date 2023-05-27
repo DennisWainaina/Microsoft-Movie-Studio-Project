@@ -76,3 +76,8 @@ Now we ask our next question:
 - What is the average rating of each type of film.
 ![Average_rating_per_film](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/a69caabf-1437-43bf-8d57-e1d8db519f30)
  **The graph above answers the question on the averagerating of each type of film in the box office**
+ 
+ Now our next question is:
+- What is the average earning domestically and internationally for each type of movie in the box office.
+**Bar graph above shows the average earnings on an international level for each type of production method.**
+**Bar graph above shows the average earnings on a domestic level for each type of production method.**
