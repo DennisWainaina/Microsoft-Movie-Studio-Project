@@ -26,9 +26,7 @@ This is the measure of success of the project in relation to the problem stateme
 ## DATA UNDERSTANDING
 Data Understanding is a crucial phase in the Data Science process where the Data Scientist dives deep into the available data, aiming to gain a comprehensive understanding of its characteristics, quality, and relevance to the defined problem. This involves exploring the data, identifying patterns and trends, assessing data quality and completeness, and gaining insights that will inform subsequent steps in the analysis. By thoroughly understanding the data, the Data Scientist can make informed decisions on how to preprocess, analyze, and model the data to extract meaningful insights and solve the problem effectively.
 
-For the problem we are trying to solve this can involve several steps as shown below:
-
-### 1. Familiarising ourselves with the data.
+### The data used for this project was as follows:
 
 For the problem at hand, multiple datasets were utilized to gather the necessary information. The primary dataset which was used is the **MovieData.csv** dataframe, which contains relevant data such as genre and box office information. This csv file was sourced externally.
 
