@@ -65,5 +65,5 @@ This is a crucial part of the **CRISP DM (Cross Industry Process for Data Mining
 
 In order to do this we shall begin with the first question:
 - What is the relationship between the type of films and the domestic and or foreign gross it receives.
-![Alt Text](C:/Users/USER/Desktop/Moringa/project/Domestic_gross_per_genre.png)
+![Domestic_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/1139c69c-2294-48a3-9caa-ca3e31ebdd2e)
 
