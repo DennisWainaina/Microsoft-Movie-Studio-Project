@@ -82,5 +82,6 @@ Now we ask our next question:
 
 ![Average_international_earning_per_production_method](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/f485150d-cccb-463f-a7b6-d72f05509f6b)
 **Bar graph above shows the average earnings on an international level for each type of production method.**
-[Average_domestic_earning_per_domestic_method](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/b391c5e6-f9bf-4c90-a6de-76767dcfb92d)
+
+![Average_domestic_earning_per_domestic_method](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/f9b6d77e-9597-4ed7-97c6-e1efcc2bf917)
 **Bar graph above shows the average earnings on a domestic level for each type of production method.**
