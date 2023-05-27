@@ -114,5 +114,3 @@ From the analysis and conclusion I propose three recommendations with visualisat
   
 - Microsoft should consider making musicals as they seem to be highly profitable as shown below:
 ![Worldwide_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/13d4e6c5-b697-4df7-9a5a-eb76f4b2e02a)
-
-
