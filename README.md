@@ -69,9 +69,10 @@ In order to do this we shall begin with the first question:
 ![Domestic_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/1139c69c-2294-48a3-9caa-ca3e31ebdd2e)
 **The graph above answers the question on what type of films does well on a domestic level. It shows the top 10 type of films that do best at the box office on a domestic level.**
 ![Worldwide_gross_per_genre](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/e94fb260-e55e-4bbb-9e0b-fc4a7865b61c)
+
 **The graph above answers the question on what type of films does well on an international level. It shows the top 10 type of films that do best at the box office on an international level.**
 
 Now we ask our next question:
 - What is the average rating of each type of film.
-![Alt text](C:\Users\USER\Desktop\Moringa\project\Average_rating_per_film.png)
-  **The graph above answers the question on the averagerating of each type of film in the box office**
+![Average_rating_per_film](https://github.com/DennisWainaina/Phase_1_final_project/assets/116555573/a69caabf-1437-43bf-8d57-e1d8db519f30)
+ **The graph above answers the question on the averagerating of each type of film in the box office**
