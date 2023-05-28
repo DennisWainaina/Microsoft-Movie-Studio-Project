@@ -2,7 +2,8 @@
 # PHASE 1 FINAL PROJECT
 
 ### INTRODUCTION
-**Welcome to my Github**. In this project the task was to help Microsoft's new movie studio to succeed in the movie business. The idea was that Microsoft wanted to enter into the movie business like its competitors but it knew nothing about the movie business. It has decided to higher you as a Data Scientist, to determine the type of films which do best at the box office. The task was to transform findings into actionable insights. One was then to transform these insights into three recommendations with visualisations, to give to the head of Microsoft's new movie studio. The head is then supposed to use these recommendations to know which type of movies to make.
+#### Welcome to my Github
+In this project the task was to help Microsoft's new movie studio to succeed in the movie business. The idea was that Microsoft wanted to enter into the movie business like its competitors but it knew nothing about the movie business. It has decided to higher you as a Data Scientist, to determine the type of films which do best at the box office. The task was to transform findings into actionable insights. One was then to transform these insights into three recommendations with visualisations, to give to the head of Microsoft's new movie studio. The head is then supposed to use these recommendations to know which type of movies to make.
 In this project of mine I split it into sections as shown below:
 1. [OBJECTIVES](#Objectives)
 2. [BUSINESS UNDERSTANDING](#business-understanding)
