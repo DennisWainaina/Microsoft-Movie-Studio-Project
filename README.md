@@ -5,10 +5,10 @@
 
 Microsoft has seen other companies have success in the movie industry and has decided to open its movie studio. It however knows nothing about the movie industry. It has decided to hire you as a Data Scientist to determine the type of films which are most popular at the Box Office. You are then supposed to convert your findings into actionable insights which you are supposed to give to the head of the new movie studio of Microsoft. This project has various sections:
 1. [OBJECTIVES](#Objectives)
-2. [BUSINESS UNDERSTANDING](#Business Understanding)
-3. [DATA UNDERSTANDING](#Data Understanding)
-4. [DATA PREPARATION](#Data Preparation)
-5. [EXPLORATORY DATA ANALYSIS](#Exploratory Data Analysis)
+2. [BUSINESS UNDERSTANDING](#business-understanding)
+3. [DATA UNDERSTANDING](#data-understanding)
+4. [DATA PREPARATION](#data-preparation)
+5. [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 6. [CONCLUSION](#Conclusion)
 7. [RECOMMENDATION](#Recommendation)
 
