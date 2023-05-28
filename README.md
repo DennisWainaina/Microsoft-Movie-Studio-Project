@@ -72,7 +72,7 @@ Data preparation is an essential step following data understanding in the Data S
 
 Data preparation is an iterative and time-consuming process, as it aims to refine the data into an optimal state before analysis. By addressing data quality issues and standardizing formats data preparation ensures that subsequent analysis yields accurate and reliable insights.
 
-This was done for all the tables described when familiarising ourselves with the data in the Jupyter Notebook.
+This was done for all the tables described in the Data Understanding, when familiarising ourselves with the data in the Jupyter Notebook.
 
 ## EXPLORATORY DATA ANALYSIS
 
