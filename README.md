@@ -18,7 +18,7 @@ The objective of this project is to:
 - Transform findings to actionable insights to give to head of new Microsoft movie studios.
 - Use findings to come up with 3 recommendations with visualisations which is to be given to the head of the movie studio.
 
-## BUSINESS UNDERSTADING
+## Business Understanding
 
 This is the thorough understanding of the problem at hand, so that the respective Data Scientist/scientists can come up with a solution that effectively solves the problem. The business understanding of a Data Science problem is split into various parts which are:
 1. Problem Statement
